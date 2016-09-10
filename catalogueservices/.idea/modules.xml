@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/catalogueservices.iml" filepath="$PROJECT_DIR$/catalogueservices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client/catalogueservices-client.iml" filepath="$PROJECT_DIR$/client/catalogueservices-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/persistence/catalogueservices-persistence.iml" filepath="$PROJECT_DIR$/persistence/catalogueservices-persistence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webservices/catalogueservices-webservices.iml" filepath="$PROJECT_DIR$/webservices/catalogueservices-webservices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xsd/xsd.iml" filepath="$PROJECT_DIR$/xsd/xsd.iml" />
+    </modules>
+  </component>
+</project>
